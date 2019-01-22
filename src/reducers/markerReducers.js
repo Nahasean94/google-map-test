@@ -1,4 +1,4 @@
-import {ADD_MARKER, CLEAR_MARKERS, DELETE_MARKER, GET_MARKERS} from "../actions/types"
+import {ADD_MARKER, CLEAR_MARKERS, DELETE_MARKER} from "../actions/types"
 
 export default (state = [], action = {}) => {
     switch (action.type) {

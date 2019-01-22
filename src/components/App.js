@@ -11,7 +11,6 @@ class App extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
-            csvData: [],
             showUploadModal: false,
 
         }
@@ -74,8 +73,12 @@ class App extends React.Component {
         const {data} = this.props
         console.log(data)
         return (
-            <div>
+            <div  className="container">
+                <br/>
+
                 <button className="btn btn-sm btn-primary" onClick={this.showUploadModal}>Add CSV Data</button>
+                <br/>
+                <br/>
                 <Mapper
                     coordinates={data}
                 />
