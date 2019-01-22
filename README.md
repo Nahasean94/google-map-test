@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Installation
+## Installation
 
 Create a folder in your computer and clone this repository.
 
-#####NOTE: You must have nodejs and npm/yarn installed in your computer. This project was built atop nodejs v10
+##### NOTE: You must have nodejs and npm/yarn installed in your computer. This project was built atop nodejs v10
 
 ## Available Scripts
 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7445da25-576b-42c6-aa74-4e3b8558c5e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="7445da25-576b-42c6-aa74-4e3b8558c5e4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -35,6 +33,15 @@
                 <caret line="23" column="172" selection-start-line="23" selection-start-column="172" selection-end-line="23" selection-end-column="172" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__tests__/csv/data_2 (1).csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -138,6 +145,11 @@
               <item name="google-map-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="google-map-test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="google-map-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google-map-test" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/__tests__/csv" />
       <recent name="$PROJECT_DIR$/__tests__/reducers" />
       <recent name="$PROJECT_DIR$/__tests__/actions" />
       <recent name="$PROJECT_DIR$/src/reducers" />
@@ -279,7 +292,7 @@
       <workItem from="1548144211897" duration="217000" />
       <workItem from="1548144729451" duration="7463000" />
       <workItem from="1548155163991" duration="417000" />
-      <workItem from="1548155889692" duration="16876000" />
+      <workItem from="1548155889692" duration="16992000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1547994581918</created>
@@ -309,7 +322,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548182585569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Readme file">
+      <created>1548183357986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548183357986</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added csv files">
+      <created>1548183437370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548183437370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -330,13 +357,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50746000" />
+    <option name="totallyTimeSpent" value="50862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="-11" width="1881" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722221" weight="0.21354452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.21354452" />
       <window_info id="DB Browser" order="1" />
       <window_info id="npm" order="2" sideWeight="0.50277776" side_tool="true" weight="0.15456034" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -393,7 +419,9 @@
     <MESSAGE value="Added google maps markers functionality" />
     <MESSAGE value="Added redux to manage markers and csv data" />
     <MESSAGE value="Added unit tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added unit tests" />
+    <MESSAGE value="Updated Readme file" />
+    <MESSAGE value="Added csv files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added csv files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -642,6 +670,13 @@
             <caret line="23" column="172" selection-start-line="23" selection-start-column="172" selection-end-line="23" selection-end-column="172" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/csv/data_2 (1).csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
         </state>
       </provider>
     </entry>
